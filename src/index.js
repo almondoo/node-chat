@@ -30,5 +30,5 @@ io.emit("some event", {
 });
 
 server.listen(3000, () => {
-  console.log("listening on localhost:3000");
+  console.log("listening on");
 });
